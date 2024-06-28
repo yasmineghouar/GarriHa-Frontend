@@ -1,0 +1,16 @@
+.idea/
+*.iml
+
+# Build generated
+build/
+
+# Configuration files
+*.properties
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+.DS_Store

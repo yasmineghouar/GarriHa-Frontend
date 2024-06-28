@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="web_client_id">1:11650096802:android:0608ce87a3947ccb6301fb</string>
+    <string name="home"></string>
+    <string name="go_to_map"></string>
+    <string name="reservation_list"></string>
+    <string name="parking_list"></string>
+</resources>
